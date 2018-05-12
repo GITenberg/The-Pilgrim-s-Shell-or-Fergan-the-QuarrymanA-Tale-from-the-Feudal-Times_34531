@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34531#The-Pilgrim-s-Shell-or-Fergan-the-QuarrymanA-Tale-from-the-Feudal-Times
 gutenberg_issued: '2010-12-01'
 gutenberg_type: Text
 identifiers:
